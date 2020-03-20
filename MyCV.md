@@ -10,11 +10,15 @@
 |GitHub    | nykyrk |
 
 *Summary:*  
--   
--   
--    
-***Skills:*** 
-***Education:*** **higher technical education**  
-***English:*** **My English is bad и огорчений** :-(  
-***TSM course goal:*** **successfully complete the course "FullStack C#
-developer"**
+- humorist 
+- optimist  
+- not conflicting 
+----------------------------------------------------
+***Skills:*** **don't panic when everything is lost**  
+----------------------------------------------------
+***Education:*** **Technical education**  
+----------------------------------------------------
+***English:*** **My English is bad и огорчений** :-( 
+---------------------------------------------------- 
+***TSM course goal:*** **successfully complete the course "FullStack C# developer"**  
+------------------------------------------------------------------
