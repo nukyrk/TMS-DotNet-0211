@@ -1,8 +1,8 @@
 
 # Aliaksandr Krykun
 
-*Contact Info:* |
-|-------- |-------|  
+*Contact Info:* |           |  
+|---: |-------|  
 |Velcom    | +375 29 126-00-60 |
 |Viber     | +375 29 126-00-60 |
 |Telegrame | +375 29 126-00-60 |
