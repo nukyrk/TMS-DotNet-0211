@@ -1,0 +1,13 @@
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\GitHub\TMS-DotNet-0211\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
