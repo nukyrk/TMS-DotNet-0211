@@ -1,0 +1,5 @@
+### Code ###
+.vs/
+.vscode/*
+bin/*
+*.sln
